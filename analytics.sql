@@ -25,7 +25,7 @@ SELECT SUM(line_total) AS total_sales, order_id
 FROM order_items
 GROUP BY order_id
 )
-SELECT c.segment, AVG(s.total_sales) AS avg_order_value
+SELECT c.segment, ROUND(AVG(s.total_sales)::numeric, 2) AS avg_order_value
 FROM segment_totals AS s
 INNER JOIN orders AS o
 	ON s.order_id = o.order_id
