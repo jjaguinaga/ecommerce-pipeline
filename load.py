@@ -87,7 +87,7 @@ def load_data():
    cur.execute('''
                CREATE TABLE reviews (
                   review_id INTEGER PRIMARY KEY,
-                  customer_id INTEGER REFERENCES customer(customer_id),
+                  customer_id INTEGER REFERENCES customers(customer_id),
                   product_id INTEGER,
                   rating INTEGER,
                   review_date DATE,
