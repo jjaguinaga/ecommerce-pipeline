@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity,is_available
+1,Wireless Headphones,Electronics,250.68,356,True
+2,Smart Watch,Electronics,77.06,438,True
+3,Bluetooth Speaker,Electronics,41.89,127,False
+4,Laptop Stand,Electronics,128.52,25,True
+5,USB Hub,Electronics,89.88,89,True
+6,Webcam,Electronics,130.84,231,True
+7,Mechanical Keyboard,Electronics,172.22,48,True
+8,Gaming Mouse,Electronics,244.3,71,True
+9,Monitor,Electronics,33.5,399,False
+10,Power Bank,Electronics,53.11,421,True
+11,Running Shoes,Clothing,93.29,480,True
+12,Denim Jacket,Clothing,81.12,132,False
+13,Graphic Tee,Clothing,21.76,33,True
+14,Hoodie,Clothing,88.57,414,True
+15,Joggers,Clothing,118.88,424,True
+16,Polo Shirt,Clothing,27.33,482,True
+17,Sneakers,Clothing,32.64,293,True
+18,Winter Coat,Clothing,97.75,254,True
+19,Baseball Cap,Clothing,92.93,88,True
+20,Cargo Shorts,Clothing,119.26,140,True
+21,Air Fryer,Home & Kitchen,133.67,17,True
+22,Coffee Maker,Home & Kitchen,96.37,331,True
+23,Knife Set,Home & Kitchen,67.67,281,True
+24,Blender,Home & Kitchen,22.27,196,True
+25,Instant Pot,Home & Kitchen,37.91,452,True
+26,Cutting Board,Home & Kitchen,44.87,410,True
+27,Toaster,Home & Kitchen,12.72,195,True
+28,Dish Rack,Home & Kitchen,60.27,278,True
+29,Food Containers,Home & Kitchen,58.15,289,True
+30,Water Filter,Home & Kitchen,64.36,92,True
+31,Yoga Mat,Sports,56.95,15,True
+32,Resistance Bands,Sports,71.83,29,True
+33,Dumbbell Set,Sports,46.67,183,True
+34,Jump Rope,Sports,89.96,498,True
+35,Foam Roller,Sports,28.31,123,True
+36,Protein Shaker,Sports,74.93,469,True
+37,Gym Bag,Sports,70.64,485,True
+38,Pull-up Bar,Sports,77.4,408,True
+39,Kettlebell,Sports,84.68,432,True
+40,Cycling Gloves,Sports,27.39,162,True
+41,Vitamin C Serum,Beauty,43.66,467,True
+42,Face Moisturizer,Beauty,43.98,180,False
+43,Shampoo Set,Beauty,36.42,288,False
+44,Mascara,Beauty,51.17,414,True
+45,Sunscreen SPF50,Beauty,32.57,158,True
+46,Lip Balm,Beauty,8.04,28,True
+47,Eye Cream,Beauty,17.81,269,True
+48,Hair Oil,Beauty,23.9,314,True
+49,Toner,Beauty,13.04,367,True
+50,Concealer,Beauty,49.32,444,True
